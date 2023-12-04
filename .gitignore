@@ -1,0 +1,26 @@
+node_modules
+.vscode
+scripts/config**
+
+# Test coverage
+coverage
+coverage.json
+
+# Hardhat files
+cache
+artifacts
+hardhat**.ts
+scripts
+
+# Secret files
+.env
+.npmrc
+.yarnrc
+
+# Build
+build
+typechain**
+
+# Yalc
+.yalc
+yalc.lock
